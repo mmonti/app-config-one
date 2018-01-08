@@ -1,3 +1,9 @@
 {
 	"name" : "Mauro Monti"
+	"spring: {
+		"profiles":{
+			"active" : "test"
+		}
+			
+	}
 }
